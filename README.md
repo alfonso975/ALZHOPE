@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí está la versión actualizada de la presentación, incluyendo la información adicional sobre el chat en tiempo real con un doctor, la asistencia personalizada y las tecnologías utilizadas:
-
----
-
 **Título del Proyecto:** ALZHOPE: Apoyo Integral para Cuidadores de Pacientes con Alzheimer
 
 **Descripción:**
