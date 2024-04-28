@@ -1,0 +1,25 @@
+/*------------------------------Scroll Bar------------------------------*/
+::-webkit-scrollbar{
+    width: 12px;
+    background: none;
+}
+::-webkit-scrollbar-track{
+    -webkit-box: inset 0 0 6px rgba(0,0,0,0.9);
+    border-radius: 10px;
+    background: none;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #0d47a1;
+    border-radius: 10px;
+}
+/*------------------------------/Scroll Bar------------------------------*/
+
+canvas{
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+img.tarjeta{
+    height: 100px;
+    width: 100px;
+}
